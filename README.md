@@ -63,10 +63,7 @@ The raw e-commerce dataset was successfully cleaned and transformed into a struc
 
 The cleaned dataset provides a reliable foundation for identifying sales patterns, trends, distributions, and potential outliers in subsequent projects.
 
- Project Files
 
-- `Cleaned_E-Commerce_Dataset.xlsx` — Final cleaned dataset.
-- `README.md` — Project documentation.
 
 
 
